@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jojo-GitH2
-- 👀 I’m interested in Data Science, Machine learning and Artificial Intelligence
-- 🌱 I’m currently learning Data Science Techniques using Python
+- 👀 I’m interested in Data Science, Machine learning, Artificial Intelligence and Cloud Computing
+- 🌱 I’m currently learning Data Science using Python and Cloud Computing Techniques
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me www.linkedin.com/in/jonah-uka-0b1672192
 
