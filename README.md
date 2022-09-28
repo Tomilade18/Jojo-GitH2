@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Machine Learning, Cloud operations, JavaScript, Linux, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Data Scientist, Machine Learning Engineer or Cloud Engineer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing jonah.uka@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1_nG7mUnyyt0Ryv-gbR9Q9qFhRnbjcsP0/view?usp=sharing) and contact me by emailing jonah.uka@gmail.com.
 
 ---
 
