@@ -9,7 +9,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jojo-gith2&label=Profile%20views&color=0e75b6&style=flat" alt="jojo-gith2" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojo-gith2" alt="jojo-gith2" /></a> </p> -->
-
+<br>
 <p align="left"> <a href="https://twitter.com/naive__bayes" target="blank"><img src="https://img.shields.io/twitter/follow/naive__bayes?logo=twitter&style=for-the-badge" alt="naive__bayes" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning with DataQuest, Cloud Engineering with [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.**
