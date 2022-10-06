@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w) -->
 
 
-<img alt = Heading src = "https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w" align = "center" width = 100%>
+<!-- <img alt = Heading src = "https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w" align = "center" width = 100%> -->
 <h1 align="center">Hi 👋, I'm Jonah Uka</h1>
 <h3 align="center">A passionate Machine Learning and Cloud Engineer</h3>
 <img align="right" alt="coding" width = "400" src = https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966>
