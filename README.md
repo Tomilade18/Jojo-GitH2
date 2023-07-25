@@ -12,19 +12,19 @@
 <br>
 <p align="left"> <a href="https://twitter.com/the__big__fish" target="blank"><img src="https://img.shields.io/twitter/follow/the__big__fish?logo=twitter&style=for-the-badge" alt="the__big__fish" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning with DataQuest, Cloud Engineering with [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.**
+- 🌱 I’m currently learning **AWS Cloud with ALX Africa**
 
 - 👯 I’m looking to collaborate on **open source projects and hackathons**
 
 - 🤝 I’m looking for help with **internships, and entry-level opportunities.**
 
-- 💬 Ask me about **python, data science, machine learning and Linux**
+- 💬 Ask me about **python, cloud computing, DevOps, AWS and Linux**
 
 - 👨🏾 I also write [tech blogs](https://hashnode.com/@jojothebigfish)
 
 - 📫 How to reach me **jonah.uka@gmail.com**
 
-- 📄 Know about my experiences: You can check [my resume](https://drive.google.com/file/d/1_nG7mUnyyt0Ryv-gbR9Q9qFhRnbjcsP0/view?usp=sharing)
+- 📄 Know about my experiences: You can check [my resume](https://docs.google.com/document/d/1bIZf90KZme8dS04vglgX4-8TCNCpNSxMgI-WjS7e2_8/edit?usp=sharing)
 
 - ⚡ Fun fact: **I love Anime, music and playing games**
 
